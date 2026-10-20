@@ -1,0 +1,7 @@
+{
+  "name": "PayPal Tableau de Bord & Portefeuille",
+  "description": "Application financière complète reproduisant l'interface PayPal : tableau de bord, suivi d'activité, envoi d'argent, portefeuille multi-cartes et centre d'aide.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
